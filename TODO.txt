@@ -1,0 +1,6 @@
+50 days
+14 day rsi
+%change in price of SPY
+open high low close volume
+80%
+train backwards. Split the data before normalizing and scaling
